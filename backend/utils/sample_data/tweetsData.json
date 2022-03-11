@@ -1,0 +1,2077 @@
+{
+    "tweets": [
+        {
+            "tweet": {
+                "text": "RT @carrie_muerte: Сердечко радуется видеть столько небезразличных людей, Питер против войны, #нетвойне https://t.co/TZUZDpDTth",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 104,
+                            "end": 127,
+                            "url": "https://t.co/TZUZDpDTth",
+                            "expanded_url": "https://twitter.com/carrie_muerte/status/1498027224938725377/video/1",
+                            "display_url": "pic.twitter.com/TZUZDpDTth"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "carrie_muerte",
+                            "id": "168061422"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 94,
+                            "end": 103,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:59:03.000Z",
+                "source": "Twitter for Android",
+                "author_id": "604686694",
+                "id": "1500153932769021953",
+                "public_metrics": {
+                    "retweet_count": 3,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "604686694",
+                "name": "🌻*日水🤍💙🤍🇺🇦",
+                "username": "himi_ko39",
+                "location": "つるふかまんじゅうの隣り"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @EVietrova: Россияне, очнитесь!!! Ми не одинаковые \n#россия #РоссияСмотри #нетвойне https://t.co/uOZUx2pqp2",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 87,
+                            "end": 110,
+                            "url": "https://t.co/uOZUx2pqp2",
+                            "expanded_url": "https://twitter.com/EVietrova/status/1500074884499750913/photo/1",
+                            "display_url": "pic.twitter.com/uOZUx2pqp2"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 13,
+                            "username": "EVietrova",
+                            "id": "1392050863221481472"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 55,
+                            "end": 62,
+                            "tag": "россия"
+                        },
+                        {
+                            "start": 63,
+                            "end": 76,
+                            "tag": "РоссияСмотри"
+                        },
+                        {
+                            "start": 77,
+                            "end": 86,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:59:02.000Z",
+                "source": "Twitter Web App",
+                "author_id": "529539274",
+                "id": "1500153927530168327",
+                "public_metrics": {
+                    "retweet_count": 23,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "529539274",
+                "name": "Куликов Александр",
+                "username": "NSPSedoy571",
+                "location": "Днепропетровск"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @qantars: 💛💙🇰🇿\nWhen our Russian-dependent government is silent, we, the people of Kazakhstan, declare that we stand in support of Ukrain…",
+                "created_at": "2022-03-05T16:58:52.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 11,
+                            "username": "qantars",
+                            "id": "1882639494"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "start": 89,
+                            "end": 98,
+                            "probability": 0.9782,
+                            "type": "Place",
+                            "normalized_text": "Kazakhstan"
+                        }
+                    ]
+                },
+                "source": "Twitter for iPhone",
+                "author_id": "1008759244097761280",
+                "id": "1500153883741626376",
+                "public_metrics": {
+                    "retweet_count": 921,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1008759244097761280",
+                "name": "Dasha⁷",
+                "username": "ynxcvb",
+                "location": "btspopper"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nсрочное обновление! просим максимально его распространить!\n\nпосоветовавшись, мы пришли…",
+                "created_at": "2022-03-05T16:58:27.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter for iPhone",
+                "author_id": "963509608965967873",
+                "id": "1500153781929058307",
+                "public_metrics": {
+                    "retweet_count": 125,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "963509608965967873",
+                "name": "хорошая христианская девочка | #standwithukraine",
+                "username": "bitchfromgondor",
+                "location": "хорни джейл"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @shuraishi_: всё что у меня сейчас есть – это гнев и вера. гнев на правительство и вера в то, что мы, народ, способны всё изменить, если…",
+                "created_at": "2022-03-05T16:58:26.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 14,
+                            "username": "shuraishi_",
+                            "id": "1185988520642523139"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1375874415322411013",
+                "id": "1500153777936027650",
+                "public_metrics": {
+                    "retweet_count": 236,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1375874415322411013",
+                "name": "Glowing✧Frost 🕊️🤍💙🤍",
+                "username": "Glowing_Frost",
+                "location": "🧴🧴 шампунь"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @NiemaMovassat: Wer in #Russland #нетвойне (Nein zum Krieg) sagt oder schreibt, riskiert 5 Jahre Knast.\nWo sind all die Leerdenker und R…",
+                "created_at": "2022-03-05T16:57:54.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "NiemaMovassat",
+                            "id": "111054843"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 26,
+                            "end": 35,
+                            "tag": "Russland"
+                        },
+                        {
+                            "start": 36,
+                            "end": 45,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1030406933512167424",
+                "id": "1500153643789651972",
+                "public_metrics": {
+                    "retweet_count": 343,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1030406933512167424",
+                "name": "Silvia Malyevacz-Winderlich",
+                "username": "malyevacz",
+                "location": "Augsburg, Bayern, München."
+            }
+        },
+        {
+            "tweet": {
+                "text": "друзья, пришла на ум рабочая схема для тех у кого яблоки! можно по аэйрдропу в многолюдных местах скидывать людям листовки! \n\nраспространите пожалуйста\n\n#нетвойне\n#нетрежиму\n#StandWithUkraine️",
+                "created_at": "2022-03-05T16:57:52.000Z",
+                "source": "Twitter for iPhone",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "start": 153,
+                            "end": 162,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 163,
+                            "end": 173,
+                            "tag": "нетрежиму"
+                        },
+                        {
+                            "start": 174,
+                            "end": 192,
+                            "tag": "StandWithUkraine️"
+                        }
+                    ]
+                },
+                "author_id": "3131154532",
+                "id": "1500153634637717514",
+                "public_metrics": {
+                    "retweet_count": 1,
+                    "reply_count": 0,
+                    "like_count": 1,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "3131154532",
+                "name": "ки́рие эле́йсон 🕊🤍",
+                "username": "hannasolace",
+                "location": "петроград"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @mylife_bigbag: #нетвойнесУкраиной #StandWithUkraine #Нетвойне \n\nсобирательный ТРЕД БЛАГОТВОРИТЕЛЬНЫХ ФОНДОВ для тех, кто хочет помочь у…",
+                "created_at": "2022-03-05T16:56:30.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "mylife_bigbag",
+                            "id": "758664516167139328"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 19,
+                            "end": 37,
+                            "tag": "нетвойнесУкраиной"
+                        },
+                        {
+                            "start": 38,
+                            "end": 55,
+                            "tag": "StandWithUkraine"
+                        },
+                        {
+                            "start": 56,
+                            "end": 65,
+                            "tag": "Нетвойне"
+                        }
+                    ]
+                },
+                "source": "Twitter Web App",
+                "author_id": "4107058222",
+                "id": "1500153292067848202",
+                "public_metrics": {
+                    "retweet_count": 26,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "4107058222",
+                "name": "имя катерина фамилия лесбиянка",
+                "username": "Trppppkek",
+                "location": "мск"
+            }
+        },
+        {
+            "tweet": {
+                "text": "#stopwar #путинхуйло #война #очнитесьлюди #путинхуйло #путинубийца #нетвойне #нетвойнероссиииукраины #война2022 #войнаукраинаиросия #россияпроснись https://t.co/DDM4ezZWYZ",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 148,
+                            "end": 171,
+                            "url": "https://t.co/DDM4ezZWYZ",
+                            "expanded_url": "https://twitter.com/SergiySC/status/1500153280860729349/photo/1",
+                            "display_url": "pic.twitter.com/DDM4ezZWYZ"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 0,
+                            "end": 8,
+                            "tag": "stopwar"
+                        },
+                        {
+                            "start": 9,
+                            "end": 20,
+                            "tag": "путинхуйло"
+                        },
+                        {
+                            "start": 21,
+                            "end": 27,
+                            "tag": "война"
+                        },
+                        {
+                            "start": 28,
+                            "end": 41,
+                            "tag": "очнитесьлюди"
+                        },
+                        {
+                            "start": 42,
+                            "end": 53,
+                            "tag": "путинхуйло"
+                        },
+                        {
+                            "start": 54,
+                            "end": 66,
+                            "tag": "путинубийца"
+                        },
+                        {
+                            "start": 67,
+                            "end": 76,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 77,
+                            "end": 100,
+                            "tag": "нетвойнероссиииукраины"
+                        },
+                        {
+                            "start": 101,
+                            "end": 111,
+                            "tag": "война2022"
+                        },
+                        {
+                            "start": 112,
+                            "end": 131,
+                            "tag": "войнаукраинаиросия"
+                        },
+                        {
+                            "start": 132,
+                            "end": 147,
+                            "tag": "россияпроснись"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:56:28.000Z",
+                "source": "NovaPress",
+                "author_id": "2365310064",
+                "id": "1500153280860729349",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "2365310064",
+                "name": "Сергей Чиж",
+                "username": "SergiySC",
+                "location": "Украина"
+            }
+        },
+        {
+            "tweet": {
+                "text": "#нетвойне https://t.co/1rh59ylYbC",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 10,
+                            "end": 33,
+                            "url": "https://t.co/1rh59ylYbC",
+                            "expanded_url": "https://twitter.com/iinoplanetankaa/status/1500153240893149190/photo/1",
+                            "display_url": "pic.twitter.com/1rh59ylYbC"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 0,
+                            "end": 9,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:56:18.000Z",
+                "source": "Twitter for Android",
+                "author_id": "1030877434537754629",
+                "id": "1500153240893149190",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1030877434537754629",
+                "name": "🚬Танатонавт🍷",
+                "username": "iinoplanetankaa",
+                "location": "Поле васильков"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nсрочное обновление! просим максимально его распространить!\n\nпосоветовавшись, мы пришли…",
+                "created_at": "2022-03-05T16:56:05.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "777553120192790534",
+                "id": "1500153186119786496",
+                "public_metrics": {
+                    "retweet_count": 125,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "777553120192790534",
+                "name": "Горе-реставратор | #НетВойне 💙💛 | бвлд",
+                "username": "_SpicyDisaster_",
+                "location": "she/her ISFP/СЭИ"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @NiemaMovassat: Wer in #Russland #нетвойне (Nein zum Krieg) sagt oder schreibt, riskiert 5 Jahre Knast.\nWo sind all die Leerdenker und R…",
+                "created_at": "2022-03-05T16:55:20.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "NiemaMovassat",
+                            "id": "111054843"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 26,
+                            "end": 35,
+                            "tag": "Russland"
+                        },
+                        {
+                            "start": 36,
+                            "end": 45,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "819088271888281600",
+                "id": "1500152995895517188",
+                "public_metrics": {
+                    "retweet_count": 343,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "819088271888281600",
+                "name": "Holly prays for Peace 💙💛☮️",
+                "username": "das_Frauchen",
+                "location": "Heilbronn, Baden-Württemberg"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @yoshkinkrot: Послушайте адекватных россиян\n\n#НетВойне https://t.co/AuX3D0wrBu",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 58,
+                            "end": 81,
+                            "url": "https://t.co/AuX3D0wrBu",
+                            "expanded_url": "https://twitter.com/yoshkinkrot/status/1500089879736242179/video/1",
+                            "display_url": "pic.twitter.com/AuX3D0wrBu"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 15,
+                            "username": "yoshkinkrot",
+                            "id": "834329076596883460"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 48,
+                            "end": 57,
+                            "tag": "НетВойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:54:58.000Z",
+                "source": "Twitter for Android",
+                "author_id": "983378551608102913",
+                "id": "1500152904401014787",
+                "public_metrics": {
+                    "retweet_count": 161,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "983378551608102913",
+                "name": "Margo",
+                "username": "SpainMarga",
+                "location": " Испания"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @NiemaMovassat: Wer in #Russland #нетвойне (Nein zum Krieg) sagt oder schreibt, riskiert 5 Jahre Knast.\nWo sind all die Leerdenker und R…",
+                "created_at": "2022-03-05T16:54:49.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "NiemaMovassat",
+                            "id": "111054843"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 26,
+                            "end": 35,
+                            "tag": "Russland"
+                        },
+                        {
+                            "start": 36,
+                            "end": 45,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "TweetDeck",
+                "author_id": "58443247",
+                "id": "1500152867696615426",
+                "public_metrics": {
+                    "retweet_count": 343,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "58443247",
+                "name": "💐🌿🥩 Barney",
+                "username": "seewolfDE",
+                "location": "Lübeck"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nсрочное обновление! просим максимально его распространить!\n\nпосоветовавшись, мы пришли…",
+                "created_at": "2022-03-05T16:54:37.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1465060295995498507",
+                "id": "1500152816161148934",
+                "public_metrics": {
+                    "retweet_count": 125,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1465060295995498507",
+                "name": "каоруhf 🕊️ #нетвойне",
+                "username": "cassuom",
+                "location": "луна"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @NiemaMovassat: Wer in #Russland #нетвойне (Nein zum Krieg) sagt oder schreibt, riskiert 5 Jahre Knast.\nWo sind all die Leerdenker und R…",
+                "created_at": "2022-03-05T16:54:32.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "NiemaMovassat",
+                            "id": "111054843"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 26,
+                            "end": 35,
+                            "tag": "Russland"
+                        },
+                        {
+                            "start": 36,
+                            "end": 45,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "Twitter for iPhone",
+                "author_id": "730218697",
+                "id": "1500152795625885707",
+                "public_metrics": {
+                    "retweet_count": 343,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "730218697",
+                "name": "🇺🇦Puck Futin🇺🇦",
+                "username": "Doktor_FreakOut",
+                "location": "Neuland"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nдорогие друзья, убедительная просьба максимально распространить данную цепочку, дабы по…",
+                "created_at": "2022-03-05T16:54:13.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1096809702938345479",
+                "id": "1500152716521263112",
+                "public_metrics": {
+                    "retweet_count": 466,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1096809702938345479",
+                "name": "женя норген #нетвойне",
+                "username": "norrrgen",
+                "location": "она/они | демигерл"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @NiemaMovassat: Wer in #Russland #нетвойне (Nein zum Krieg) sagt oder schreibt, riskiert 5 Jahre Knast.\nWo sind all die Leerdenker und R…",
+                "created_at": "2022-03-05T16:54:11.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "NiemaMovassat",
+                            "id": "111054843"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 26,
+                            "end": 35,
+                            "tag": "Russland"
+                        },
+                        {
+                            "start": 36,
+                            "end": 45,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "36315728",
+                "id": "1500152708078370818",
+                "public_metrics": {
+                    "retweet_count": 343,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "36315728",
+                "name": "Swen Thümmler",
+                "username": "grmblfrz",
+                "location": "Enger"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @_noirmort_: здесь все понятно без слов\n\n#StandWithUkraine #нетвойне https://t.co/dIu4ZENBUI",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 72,
+                            "end": 95,
+                            "url": "https://t.co/dIu4ZENBUI",
+                            "expanded_url": "https://twitter.com/_noirmort_/status/1499059023085244419/photo/1",
+                            "display_url": "pic.twitter.com/dIu4ZENBUI"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 14,
+                            "username": "_noirmort_",
+                            "id": "1254710428472655874"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 44,
+                            "end": 61,
+                            "tag": "StandWithUkraine"
+                        },
+                        {
+                            "start": 62,
+                            "end": 71,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:53:57.000Z",
+                "source": "Twitter for Android",
+                "author_id": "1190476557447520256",
+                "id": "1500152647495692296",
+                "public_metrics": {
+                    "retweet_count": 2131,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1190476557447520256",
+                "name": "Еловый Чай",
+                "username": "Spruce_Tea",
+                "location": "Балашиха, Россия"
+            }
+        },
+        {
+            "tweet": {
+                "text": "Эту речь Олег ЛСП сказал в 2018 году в декабре на концерте, в поддержку о ситуации, которую теперь мы переживаем по всей Украине... \n\n#ЛСП #ОлегЛсп #нетвойне #nowar\nhttps://t.co/DIEnI45RIH",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 165,
+                            "end": 188,
+                            "url": "https://t.co/DIEnI45RIH",
+                            "expanded_url": "https://www.instagram.com/tv/Caur_HWob6t/?utm_medium=share_sheet",
+                            "display_url": "instagram.com/tv/Caur_HWob6t…",
+                            "status": 200,
+                            "title": "Nina LSP 𝓑𝓮𝓵𝓵𝓪𝓶𝔂 (@ninalovemuse) • Instagram video",
+                            "description": "0 Likes, 0 Comments - Nina LSP 𝓑𝓮𝓵𝓵𝓪𝓶𝔂 (@ninalovemuse) on Instagram: “Эту речь Олег ЛСП сказал в 2018 году в декабре на концерте, в поддержку о ситуации, которую теперь…”",
+                            "unwound_url": "https://www.instagram.com/tv/Caur_HWob6t/?utm_medium=share_sheet"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 134,
+                            "end": 138,
+                            "tag": "ЛСП"
+                        },
+                        {
+                            "start": 139,
+                            "end": 147,
+                            "tag": "ОлегЛсп"
+                        },
+                        {
+                            "start": 148,
+                            "end": 157,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 158,
+                            "end": 164,
+                            "tag": "nowar"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:53:22.000Z",
+                "source": "Twitter for Android",
+                "author_id": "705432149529337860",
+                "id": "1500152502569910278",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "705432149529337860",
+                "name": "Nina LSP 🇺🇦",
+                "username": "nikj2016",
+                "location": "Matthews, NC"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @rshaveddinov: 6 марта в 14:00, на центральных площадях всех городов России и мира. Против войны. За Россию. Против Путина. Где бы вы не…",
+                "created_at": "2022-03-05T16:53:21.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 16,
+                            "username": "rshaveddinov",
+                            "id": "1356962287270178826"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "2813646301",
+                "id": "1500152497620533249",
+                "public_metrics": {
+                    "retweet_count": 148,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "2813646301",
+                "name": "szur",
+                "username": "szur6",
+                "location": "Polska"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @uzuratukune3: ウクライナの原発が攻撃され世界が恐怖に震えてる今まさにこの日に、原発再稼働を口にするこの国の政治家。唯一の被爆国であることも忘れ核武装を口にする元首相だの、どいつもこいつもいったいこの人達のどこが愛国者なの？\n#戦争反対 #нетвойне…",
+                "created_at": "2022-03-05T16:53:21.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 16,
+                            "username": "uzuratukune3",
+                            "id": "327892851"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 123,
+                            "end": 128,
+                            "tag": "戦争反対"
+                        },
+                        {
+                            "start": 129,
+                            "end": 138,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "TwitPane for Android",
+                "author_id": "132143593",
+                "id": "1500152495875977218",
+                "public_metrics": {
+                    "retweet_count": 214,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "132143593",
+                "name": "ムギのムギひとおじいちゃん",
+                "username": "ancotin",
+                "location": "アルツハイム"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @ast1llbe: мои предки эмигрировали из россии более века назад, а стыд и бессильную ярость чувствую все равно я\n\n#нетвойне https://t.co/0…",
+                "created_at": "2022-03-05T16:52:39.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 12,
+                            "username": "ast1llbe",
+                            "id": "1372840235382497284"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 115,
+                            "end": 124,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1116800489545502722",
+                "id": "1500152322189574148",
+                "public_metrics": {
+                    "retweet_count": 305,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1116800489545502722",
+                "name": "бай-🐝 #нетвойне",
+                "username": "makeapactwithme",
+                "location": "average reichi enjoyer"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @drasteipoka: перемен требуют наши сердца!\nперемен требуют наши глаза!!!\n\n#нетвойне #nowar https://t.co/UFghbhFmu8",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 94,
+                            "end": 117,
+                            "url": "https://t.co/UFghbhFmu8",
+                            "expanded_url": "https://twitter.com/drasteipoka/status/1499717922725502980/photo/1",
+                            "display_url": "pic.twitter.com/UFghbhFmu8"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 15,
+                            "username": "drasteipoka",
+                            "id": "1209763325443223552"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 77,
+                            "end": 86,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 87,
+                            "end": 93,
+                            "tag": "nowar"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:52:39.000Z",
+                "source": "Twitter for Android",
+                "author_id": "1336031475347689475",
+                "id": "1500152321522688001",
+                "public_metrics": {
+                    "retweet_count": 21,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1336031475347689475",
+                "name": "Валера Обыкновенный ☕ (40/90) 🇺🇦🤝🇷🇺 #нетвойне",
+                "username": "Doyorsa__",
+                "location": "Геншин импакт, ищите там"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @mystic_tower: #нетвойне #IStandWithUkraine \nОЧЕНЬ НУЖЕН РЕТВИТ\n\nтак, стала видеть много отчаяния в ленте \n\nА НУ СЛУШАТЬ СЮДА!\n\nда, все…",
+                "created_at": "2022-03-05T16:51:48.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 16,
+                            "username": "mystic_tower",
+                            "id": "1333473074142916612"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 18,
+                            "end": 27,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 28,
+                            "end": 46,
+                            "tag": "IStandWithUkraine"
+                        }
+                    ]
+                },
+                "source": "Twitter Web App",
+                "author_id": "961950480321556480",
+                "id": "1500152107227353095",
+                "public_metrics": {
+                    "retweet_count": 1401,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "961950480321556480",
+                "name": "sol'",
+                "username": "sol_halite",
+                "location": "Russia"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @atsu_sasa: #戦争反対\n#нетвойне \n#NoWar https://t.co/WbiWRqqbg7",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 39,
+                            "end": 62,
+                            "url": "https://t.co/WbiWRqqbg7",
+                            "expanded_url": "https://twitter.com/atsu_sasa/status/1499938841243062272/photo/1",
+                            "display_url": "pic.twitter.com/WbiWRqqbg7"
+                        },
+                        {
+                            "start": 39,
+                            "end": 62,
+                            "url": "https://t.co/WbiWRqqbg7",
+                            "expanded_url": "https://twitter.com/atsu_sasa/status/1499938841243062272/photo/1",
+                            "display_url": "pic.twitter.com/WbiWRqqbg7"
+                        },
+                        {
+                            "start": 39,
+                            "end": 62,
+                            "url": "https://t.co/WbiWRqqbg7",
+                            "expanded_url": "https://twitter.com/atsu_sasa/status/1499938841243062272/photo/1",
+                            "display_url": "pic.twitter.com/WbiWRqqbg7"
+                        },
+                        {
+                            "start": 39,
+                            "end": 62,
+                            "url": "https://t.co/WbiWRqqbg7",
+                            "expanded_url": "https://twitter.com/atsu_sasa/status/1499938841243062272/photo/1",
+                            "display_url": "pic.twitter.com/WbiWRqqbg7"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 13,
+                            "username": "atsu_sasa",
+                            "id": "793139090"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 15,
+                            "end": 20,
+                            "tag": "戦争反対"
+                        },
+                        {
+                            "start": 21,
+                            "end": 30,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 32,
+                            "end": 38,
+                            "tag": "NoWar"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:51:42.000Z",
+                "source": "Twitter for Android",
+                "author_id": "159455828",
+                "id": "1500152083068362752",
+                "public_metrics": {
+                    "retweet_count": 77,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "159455828",
+                "name": "niva",
+                "username": "niva_bullblood",
+                "location": "町田"
+            }
+        },
+        {
+            "tweet": {
+                "text": "@KremlinRussia_E #нетвойне",
+                "created_at": "2022-03-05T16:51:02.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 0,
+                            "end": 16,
+                            "username": "KremlinRussia_E",
+                            "id": "205622130"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 17,
+                            "end": 26,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "Twitter Web App",
+                "author_id": "1178556469236703233",
+                "id": "1500151913253412870",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1178556469236703233",
+                "name": "MitMitsch",
+                "username": "MitMitsch",
+                "location": "Tatooine"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @Anna_Jik: Morgen startet der WOZ-Blog zum Krieg gegen die #Ukraine - mit täglichen Einschätzungen unserer Expert:innen, Stimmen aus der…",
+                "created_at": "2022-03-05T16:50:56.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 12,
+                            "username": "Anna_Jik",
+                            "id": "1024136538"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 62,
+                            "end": 70,
+                            "tag": "Ukraine"
+                        }
+                    ]
+                },
+                "source": "Twitter for iPhone",
+                "author_id": "1916893808",
+                "id": "1500151891162013697",
+                "public_metrics": {
+                    "retweet_count": 6,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1916893808",
+                "name": "Hans-Peter Graf",
+                "username": "HampiGraf",
+                "location": "Bern"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nсрочное обновление! просим максимально его распространить!\n\nпосоветовавшись, мы пришли…",
+                "created_at": "2022-03-05T16:50:56.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "719386085898510336",
+                "id": "1500151887080873990",
+                "public_metrics": {
+                    "retweet_count": 125,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "719386085898510336",
+                "name": "пин",
+                "username": "uuuuuuuuggh",
+                "location": "город-на-Горхоне"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nсрочное обновление! просим максимально его распространить!\n\nпосоветовавшись, мы пришли…",
+                "created_at": "2022-03-05T16:50:51.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1163229675558191106",
+                "id": "1500151868747653133",
+                "public_metrics": {
+                    "retweet_count": 125,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1163229675558191106",
+                "name": "сабвей серф #StandWithUkraine",
+                "username": "dammmnitaliano",
+                "location": "SHE%HER radfem #катясупримаси"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @yoshkinkrot: Послушайте адекватных россиян\n\n#НетВойне https://t.co/AuX3D0wrBu",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 58,
+                            "end": 81,
+                            "url": "https://t.co/AuX3D0wrBu",
+                            "expanded_url": "https://twitter.com/yoshkinkrot/status/1500089879736242179/video/1",
+                            "display_url": "pic.twitter.com/AuX3D0wrBu"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 15,
+                            "username": "yoshkinkrot",
+                            "id": "834329076596883460"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 48,
+                            "end": 57,
+                            "tag": "НетВойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:50:49.000Z",
+                "source": "Twitter Web App",
+                "author_id": "3469877975",
+                "id": "1500151858064732161",
+                "public_metrics": {
+                    "retweet_count": 161,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "3469877975",
+                "name": "Ekaterina Mariinsky",
+                "username": "kate_mariinsky",
+                "location": "Espoo, Finland"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @Yuriyfollowback: Мы хотим жить в мире и согласии, а не в горе и мучении.\n#нетвойне #仏画 #魚籃観音 https://t.co/IpF1wPSICa",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 97,
+                            "end": 120,
+                            "url": "https://t.co/IpF1wPSICa",
+                            "expanded_url": "https://twitter.com/Yuriyfollowback/status/1499921708379037696/photo/1",
+                            "display_url": "pic.twitter.com/IpF1wPSICa"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 19,
+                            "username": "Yuriyfollowback",
+                            "id": "1238115270402535424"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 77,
+                            "end": 86,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 87,
+                            "end": 90,
+                            "tag": "仏画"
+                        },
+                        {
+                            "start": 91,
+                            "end": 96,
+                            "tag": "魚籃観音"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:50:30.000Z",
+                "source": "Twitter for Android",
+                "author_id": "772281164061036548",
+                "id": "1500151781242044417",
+                "public_metrics": {
+                    "retweet_count": 6,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "772281164061036548",
+                "name": "闘豹",
+                "username": "MukouyamaSeijin",
+                "location": "日本"
+            }
+        },
+        {
+            "tweet": {
+                "text": "Записала кусочек песни группы кино\n\nминутка поддержки боевого настроя всем тем кто борется\n\nКак завещал Цой:\"И больше нет ничего всё находится в нас\"\n‼️НЕ СМЕЙТЕ СДАВАТЬСЯ‼️\n#нетвойне #антипанiка https://t.co/fLpVCBrNhZ",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 196,
+                            "end": 219,
+                            "url": "https://t.co/fLpVCBrNhZ",
+                            "expanded_url": "https://twitter.com/marveloussunri1/status/1500151718868357130/video/1",
+                            "display_url": "pic.twitter.com/fLpVCBrNhZ"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 174,
+                            "end": 183,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 184,
+                            "end": 195,
+                            "tag": "антипанiка"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:50:15.000Z",
+                "source": "Twitter for Android",
+                "author_id": "1175841954724220928",
+                "id": "1500151718868357130",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1175841954724220928",
+                "name": "кокетливая малинка",
+                "username": "marveloussunri1",
+                "location": "в панамке на Хайнань"
+            }
+        },
+        {
+            "tweet": {
+                "text": "#NoWar #StopPutinNOW #НетВойне \nНа следующей неделе с вероятностью 99% отчим уедет в Украину, \"налаживать жизнь украинцам\" (Это он так думает) . Если что, он будет где-то у атомной станции, охранять её от \"националистов\"\nБлять, ну и позор... Охранять от самих себя, получается👍",
+                "created_at": "2022-03-05T16:49:48.000Z",
+                "source": "Twitter Web App",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "start": 0,
+                            "end": 6,
+                            "tag": "NoWar"
+                        },
+                        {
+                            "start": 7,
+                            "end": 20,
+                            "tag": "StopPutinNOW"
+                        },
+                        {
+                            "start": 21,
+                            "end": 30,
+                            "tag": "НетВойне"
+                        }
+                    ]
+                },
+                "author_id": "964155095553400832",
+                "id": "1500151603902431236",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 0,
+                    "like_count": 1,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "964155095553400832",
+                "name": "Lola #НетВойне",
+                "username": "LolaSt2003",
+                "location": " Australia"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @kylmup3a: Новый тренд: Зеленский молодец, а Путину 3,14здец!\n#славаУкраинеГероямСлава\n#нетвойне #StopPutinNOW #StopRussianAggression ht…",
+                "created_at": "2022-03-05T16:49:30.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 12,
+                            "username": "kylmup3a",
+                            "id": "3993818113"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 65,
+                            "end": 89,
+                            "tag": "славаУкраинеГероямСлава"
+                        },
+                        {
+                            "start": 90,
+                            "end": 99,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 100,
+                            "end": 113,
+                            "tag": "StopPutinNOW"
+                        },
+                        {
+                            "start": 114,
+                            "end": 136,
+                            "tag": "StopRussianAggression"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1395283183399325699",
+                "id": "1500151529315213313",
+                "public_metrics": {
+                    "retweet_count": 3,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1395283183399325699",
+                "name": "Askar Askar",
+                "username": "AKalassov",
+                "location": "Kazakhstan"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @TRTRussian: Звезды российской эстрады, театра и кино призвали власти страны остановить вторжение в Украину. Их поддержали коллеги на пр…",
+                "created_at": "2022-03-05T16:49:21.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 14,
+                            "username": "TRTRussian",
+                            "id": "1174291171566411776"
+                        }
+                    ]
+                },
+                "source": "Twitter for iPad",
+                "author_id": "1393901561085038596",
+                "id": "1500151492619214852",
+                "public_metrics": {
+                    "retweet_count": 39,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1393901561085038596",
+                "name": "allegro appassionato🇺🇦",
+                "username": "cGXopplimnXMSLf",
+                "location": "Не место красит человека"
+            }
+        },
+        {
+            "tweet": {
+                "text": "Коротко о том, как «успешно» проходит «операция» плешивого, и что происходит на самом деле.\n#нетспецоперации #путинхуйло #нетвойне #StopPutinNOW https://t.co/WgVBBpDNGo",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 145,
+                            "end": 168,
+                            "url": "https://t.co/WgVBBpDNGo",
+                            "expanded_url": "https://twitter.com/wrsnpas/status/1500151480883593224/photo/1",
+                            "display_url": "pic.twitter.com/WgVBBpDNGo"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 92,
+                            "end": 108,
+                            "tag": "нетспецоперации"
+                        },
+                        {
+                            "start": 109,
+                            "end": 120,
+                            "tag": "путинхуйло"
+                        },
+                        {
+                            "start": 121,
+                            "end": 130,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 131,
+                            "end": 144,
+                            "tag": "StopPutinNOW"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:49:19.000Z",
+                "source": "Twitter for iPhone",
+                "author_id": "1178725211258130434",
+                "id": "1500151480883593224",
+                "public_metrics": {
+                    "retweet_count": 0,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1178725211258130434",
+                "name": "ОСТАНОВИТЕ ПИЗДЕЦ🇺🇦",
+                "username": "wrsnpas",
+                "location": "Одесса"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nсрочное обновление! просим максимально его распространить!\n\nпосоветовавшись, мы пришли…",
+                "created_at": "2022-03-05T16:49:17.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter Web App",
+                "author_id": "1252186383063683073",
+                "id": "1500151474797559814",
+                "public_metrics": {
+                    "retweet_count": 125,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1252186383063683073",
+                "name": "KayselynAxe 🕊",
+                "username": "KayselynaxeB",
+                "location": "On the way to the Horizon"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nдорогие друзья, убедительная просьба максимально распространить данную цепочку, дабы по…",
+                "created_at": "2022-03-05T16:49:17.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1454215169635196928",
+                "id": "1500151473392521223",
+                "public_metrics": {
+                    "retweet_count": 466,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1454215169635196928",
+                "name": "вᴀнильнᴀя ᴋᴏфᴇинкᴀ. #нетвойне🤍💙❤️💙💛",
+                "username": "stupid_pizza02",
+                "location": "умерла от недосыпа"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @hahalohyshka1: #хуйвойне #нетвойне \n\nвместе нас много, вместе мы - сила! https://t.co/s12P4kcmzG",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 77,
+                            "end": 100,
+                            "url": "https://t.co/s12P4kcmzG",
+                            "expanded_url": "https://twitter.com/hahalohyshka1/status/1500113824053145600/photo/1",
+                            "display_url": "pic.twitter.com/s12P4kcmzG"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "hahalohyshka1",
+                            "id": "996631336889847808"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 19,
+                            "end": 28,
+                            "tag": "хуйвойне"
+                        },
+                        {
+                            "start": 29,
+                            "end": 38,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:49:11.000Z",
+                "source": "Twitter for Android",
+                "author_id": "1478973137459027969",
+                "id": "1500151446930702338",
+                "public_metrics": {
+                    "retweet_count": 27,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1478973137459027969",
+                "name": "вакенфул 🕊️",
+                "username": "wackenful",
+                "location": "Saint Petersburg, Russia"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @hahalohyshka1: #хуйвойне #нетвойне \n\nвместе нас много, вместе мы - сила! https://t.co/s12P4kcmzG",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 77,
+                            "end": 100,
+                            "url": "https://t.co/s12P4kcmzG",
+                            "expanded_url": "https://twitter.com/hahalohyshka1/status/1500113824053145600/photo/1",
+                            "display_url": "pic.twitter.com/s12P4kcmzG"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 17,
+                            "username": "hahalohyshka1",
+                            "id": "996631336889847808"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 19,
+                            "end": 28,
+                            "tag": "хуйвойне"
+                        },
+                        {
+                            "start": 29,
+                            "end": 38,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:49:07.000Z",
+                "source": "Twitter for Android",
+                "author_id": "1270235049024204802",
+                "id": "1500151430304387074",
+                "public_metrics": {
+                    "retweet_count": 27,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1270235049024204802",
+                "name": "#нетвойне || сима",
+                "username": "marrrwww",
+                "location": "петроград / ленинград"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @cozyfirekeeper: #нетвойне 🇺🇦 #свободуроссии 🇷🇺\n\nсрочное обновление! просим максимально его распространить!\n\nпосоветовавшись, мы пришли…",
+                "created_at": "2022-03-05T16:49:05.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 18,
+                            "username": "cozyfirekeeper",
+                            "id": "1434248742006366216"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 20,
+                            "end": 29,
+                            "tag": "нетвойне"
+                        },
+                        {
+                            "start": 33,
+                            "end": 47,
+                            "tag": "свободуроссии"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "952511429915172864",
+                "id": "1500151422049918981",
+                "public_metrics": {
+                    "retweet_count": 125,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "952511429915172864",
+                "name": "Рин 💙💛 #НетВойне",
+                "username": "ShizumuRin",
+                "location": "Чердак Яо "
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @mystic_tower: #IStandWithUkraine #нетвойне \nОЧЕНЬ НУЖЕН РЕТВИТ\n\nЯ считаю, что твиттер как информационный ресурс себя исчерпал. До всех,…",
+                "created_at": "2022-03-05T16:48:45.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 16,
+                            "username": "mystic_tower",
+                            "id": "1333473074142916612"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 18,
+                            "end": 36,
+                            "tag": "IStandWithUkraine"
+                        },
+                        {
+                            "start": 37,
+                            "end": 46,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "source": "Twitter for Android",
+                "author_id": "1104036051360854018",
+                "id": "1500151339267014666",
+                "public_metrics": {
+                    "retweet_count": 2325,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "1104036051360854018",
+                "name": "jess mey|i never die|rest",
+                "username": "gggwwwfff",
+                "location": " там где хорошо."
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @EVietrova: Россияне, очнитесь!!! Ми не одинаковые \n#россия #РоссияСмотри #нетвойне https://t.co/uOZUx2pqp2",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 87,
+                            "end": 110,
+                            "url": "https://t.co/uOZUx2pqp2",
+                            "expanded_url": "https://twitter.com/EVietrova/status/1500074884499750913/photo/1",
+                            "display_url": "pic.twitter.com/uOZUx2pqp2"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 13,
+                            "username": "EVietrova",
+                            "id": "1392050863221481472"
+                        }
+                    ],
+                    "hashtags": [
+                        {
+                            "start": 55,
+                            "end": 62,
+                            "tag": "россия"
+                        },
+                        {
+                            "start": 63,
+                            "end": 76,
+                            "tag": "РоссияСмотри"
+                        },
+                        {
+                            "start": 77,
+                            "end": 86,
+                            "tag": "нетвойне"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-05T16:48:30.000Z",
+                "source": "Twitter Web App",
+                "author_id": "2538048133",
+                "id": "1500151274725072896",
+                "public_metrics": {
+                    "retweet_count": 23,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "2538048133",
+                "name": "Інфо Фронт",
+                "username": "NikNPf",
+                "location": "Харків"
+            }
+        },
+        {
+            "tweet": {
+                "text": "RT @violettagrudina: Мурманский губернатор — идиот. Напялил на себя толстовку с Z и подписал: «Z — значит Zаполярье». Какое Заполярье? Это…",
+                "created_at": "2022-03-05T16:48:13.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 3,
+                            "end": 19,
+                            "username": "violettagrudina",
+                            "id": "2570679949"
+                        }
+                    ]
+                },
+                "source": "Twitter Web App",
+                "author_id": "392588629",
+                "id": "1500151204260761601",
+                "public_metrics": {
+                    "retweet_count": 2,
+                    "reply_count": 0,
+                    "like_count": 0,
+                    "quote_count": 0
+                }
+            },
+            "user": {
+                "id": "392588629",
+                "name": "Andrei Menshenin 🇺🇦 ✈️",
+                "username": "A_Menshenin",
+                "location": "Iceland"
+            }
+        }
+    ],
+    "next_token": "b26v89c19zqg8o3fpyql8oet7vwhi2u6hvofil170u35p"
+}

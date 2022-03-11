@@ -1,0 +1,26 @@
+{
+  "name": "twitter_netvoine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "browserify": "^17.0.0",
+    "express": "^4.17.3",
+    "firebase": "^9.6.8",
+    "leaflet": "^1.7.1",
+    "twitter-v2": "^1.1.0"
+  },
+  "devDependencies": {
+    "esmify": "^2.1.1",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}

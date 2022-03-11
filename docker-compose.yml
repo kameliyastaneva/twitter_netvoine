@@ -1,0 +1,6 @@
+services:
+  twitter_netvoine:
+    build: .
+    ports:
+      - "3000:3000"
+    command: npm start

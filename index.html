@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin=""
+    />
+
+    <script
+      src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin=""
+    ></script>
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div>
+      <div id="map"></div>
+    </div>
+
+    <element id="rectangle">
+      <div id="title">#нетвойне</div>
+      <p id="describtion">
+        This interactive map uses the Twitter API to locate people using the
+        #нетвойне hashtag in their tweets worldwide. It was inspired by
+        <a
+          href="https://www.economist.com/graphic-detail/2022/02/28/russians-in-every-major-city-and-region-call-for-nowar"
+          target="_blank"
+          >this</a
+        >
+        map by the Economist.
+      </p>
+    </element>
+
+    <script src="index.js"></script>
+    <script>
+       fetch(`http://localhost:3000/api`).then(data =>
+      data.json()).then(data => plotTweets(data))
+        
+    </script>
+  </body>
+</html>
